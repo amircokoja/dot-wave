@@ -1,0 +1,3 @@
+GET {{host}}/products/f8e32510-ff77-4002-b646-638f846be2b0
+Content-Type: application/json
+

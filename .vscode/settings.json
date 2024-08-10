@@ -1,0 +1,10 @@
+{
+  "rest-client.environmentVariables": {
+    "$shared": {
+      "host": "http://localhost:5239"
+    },
+    "dev": {
+      "token": "ey..."
+    }
+  }
+}
